@@ -1,0 +1,16 @@
+{
+    "name": "lest4t/vkmarket",
+    "description": "VK Market export library",
+    "type": "library",
+    "require": {
+        "getjump/vk": ">=0.6",
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lest4t",
+            "email": "itlest4t@gmail.com"
+        }
+    ]
+}
