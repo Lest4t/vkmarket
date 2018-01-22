@@ -1,6 +1,7 @@
 {
     "name": "lest4t/vkmarket",
     "description": "VK Market export library",
+    "version": "0.0.1",
     "type": "library",
     "require": {
         "getjump/vk": ">=0.6",
@@ -12,5 +13,10 @@
             "name": "lest4t",
             "email": "itlest4t@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "lest4t\\VKMarketExport\\": "src/"
+        }
+    }
 }
