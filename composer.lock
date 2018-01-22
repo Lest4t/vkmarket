@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "07a00f2a4608df68f2c2f3027f40724d",
+    "content-hash": "432e1e4f45b0eef6df2a7597b7b02532",
     "packages": [
         {
             "name": "getjump/vk",
