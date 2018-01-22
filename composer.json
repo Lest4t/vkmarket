@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lest4t\\VKMarketExport\\": "src/"
+            "lest4t\\VkMarketExport\\": "src/"
         }
     }
 }
