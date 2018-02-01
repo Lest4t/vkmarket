@@ -4,10 +4,10 @@
  * Time: 7:54 PM
  */
 
-namespace lest4t\VkMarketExport\models;
+namespace lest4t\VkMarket\Models;
 
 
-class VkItems
+class VkItem
 {
 
 }

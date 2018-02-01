@@ -4,10 +4,10 @@
  * Time: 7:55 PM
  */
 
-namespace lest4t\VkMarketExport\helpers;
+namespace lest4t\VkMarket\Helpers;
 
 
-use lest4t\VkMarketExport\config\VkConfig;
+use lest4t\VkMarket\Config\VkConfig;
 
 class VkHelper
 {
